@@ -1,7 +1,7 @@
-## train_blip.py--only use blip2-2.7b model
-## train_blip_enhanced.py --use enhanced frame 
-## utils.py -- for enhanced frame
-## config.py -- for both 2 method
+### train_blip.py--only use blip2-2.7b model
+### train_blip_enhanced.py --use enhanced frame 
+### utils.py -- for enhanced frame
+### config.py -- for both 2 method
 ## you need to download blip2 model or load your trained blip2 architecture model, and change the model path in config.py
 ## pleace don't set fp16 == true in config.py
 ## it approximately occupies 28-30GB of GPU memory.
