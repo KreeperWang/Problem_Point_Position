@@ -1,7 +1,7 @@
-train_blip.py--only use blip2-2.7b model
-train_blip_enhanced.py --use enhanced frame 
-utils.py -- for enhanced frame
-config.py -- for both 2 method
+# train_blip.py--only use blip2-2.7b model
+# train_blip_enhanced.py --use enhanced frame 
+# utils.py -- for enhanced frame
+# config.py -- for both 2 method
 
 
 # PGDP5K 几何图形点位置识别数据集
