@@ -1,0 +1,19 @@
+{
+  "total_points": 4409,
+  "matched_points": 5,
+  "match_rate": 0.0011340440009072353,
+  "mean_distance": 10.076173624308382,
+  "median_distance": 9.906719271021885,
+  "std_distance": 0.5704056264483132,
+  "min_distance": 9.37744184916536,
+  "max_distance": 11.083065993097483,
+  "mae": 10.076173624308382,
+  "accuracy@5px": 0.0,
+  "accuracy@10px": 0.0006804264005443411,
+  "accuracy@15px": 0.0011340440009072353,
+  "accuracy@20px": 0.0011340440009072353,
+  "accuracy@25px": 0.0011340440009072353,
+  "mean_normalized_error": 0.01007617362430838,
+  "median_normalized_error": 0.009906719271021885,
+  "relative_point_distance_error": 9.887172050452067
+}
